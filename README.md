@@ -3,7 +3,9 @@ This notebook is the second notebook corresponding to the "Computer Vision Funda
 
 The goal of edge detection is to identify the boundaries of an object in an image. 
 
-![Canny Edges](/images/canny.png)
+<p aligned="center">
+    <img src="/images/canny.png" alt="Canny Edges">
+</p>
 
 To do so, we must first convert to grayscale so as to have a 1D matrix. Within this grayscale image, we have a scale of values ranging from dark (0) to light (255). Sudden changes in the brightness of neighboring pixel intensities, given by the derivation ("gradient"), tend to delineate a line/edge. Computing this gradient gives us thick edges within the image, denoting note only change in pixel intensity but the rate at which they change.
 
