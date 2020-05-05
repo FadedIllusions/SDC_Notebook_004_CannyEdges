@@ -1,5 +1,5 @@
 # SDC_Notebook_004_CannyEdges
-This notebook is the second notebook corresponding to the "Computer Vision Fundamentals" of Udacity's Self-Driving Car Nanodegree, in which we begin exploring the concepts of image processing and computer vision.
+This notebook is the fourth notebook corresponding to the "Computer Vision Fundamentals" of Udacity's Self-Driving Car Nanodegree, in which we begin exploring the concepts of image processing and computer vision.
 
 The goal of edge detection is to identify the boundaries of an object in an image. 
 
